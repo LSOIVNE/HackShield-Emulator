@@ -1,0 +1,9 @@
+LIBRARY "NGClient.aes"
+EXPORTS
+    NGClientEntry1 @1
+    NGClientEntry2 @2
+    NGClientEntry3 @3
+    NGClientEntry4 @4
+    NGClientEntry5 @5
+    NGClientEntry6 @6
+    NGClientEntry7 @7

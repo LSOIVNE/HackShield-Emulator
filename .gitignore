@@ -31,8 +31,14 @@
 *.out
 *.app
 
-.vs
-EhSvc/Release
-EhSvc/Debug
-HsUpdate/Release
-HsUpdate/Debug
+.vs/
+Release/
+Debug/
+EhSvc/Release/
+EhSvc/Debug/
+HsUpdate/Release/
+HsUpdate/Debug/
+NGClient/Release/
+NGClient/Debug/
+*.aes
+*.exp
